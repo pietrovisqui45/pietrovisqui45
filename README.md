@@ -1,16 +1,14 @@
-## Hi there 👋
+### Eu gosto do **Bistecone** e **Snopey** juro 🐵
 
-<!--
-**pietrovisqui45/pietrovisqui45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é... não interessa
 
-Here are some ideas to get you started:
+- Estou estudando na Alura `infelismente`
+- Assisto [Snopey](https://www.twitch.tv/snopey_) e [Bistecone](https://www.twitch.tv/bisteconee)
+- Adoro jogar Minecraft e FNAF
+- Amo Computers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Se você quiser conversar comigo, **não converse**.
+
+youtube.com/@pietrovisqui
+
+![](https://media1.tenor.com/m/vN52zBYN4KIAAAAd/bistecone-twitch.gif)
